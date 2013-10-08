@@ -1,0 +1,26 @@
+#page-wrap { width: 960px; padding: 0 0 0 0px; margin: 0 auto; overflow: hidden;height:550px;
+	position:absolute;
+	top:50%;
+	margin-top:-275px; }
+
+.info-col { float: left; width: 130px; height: 500px; padding: 10px 0 0 0; overflow:hidden;}
+.last {border-right:0;}
+.info-col h3 { text-align: left; font-weight: normal; margin: 0 0 25px 0; padding:10px; font-family: 'Merriweather', serif;font-weight:400; background:#000;font-size: 1.17em;}
+
+.image { height: 100%; width:130px; display: block; text-indent:-9999px; float:left;}
+.image img { margin-left:-55px;}
+
+.info-col p {width:100%;}
+
+.sanjyot { background: url(images/bios/sanjyot.png) -100px top no-repeat; }
+.devendra { background: url(images/bios/devendra.png) -100px top no-repeat; }
+.yash { background: url(images/bios/yash.png) -100px top no-repeat; }
+.akshay { background: url(images/bios/akshay.png) -100px top no-repeat; }
+.snehal { background: url(images/bios/snehal.png) -100px top no-repeat; }
+
+
+dt { padding: 5px; color: white;}
+dd { position: absolute; left: -9999px; top: -9999px; width: 299px; padding: 0px; color: white; margin:0; }
+dl {float:left;}
+
+.curCol {  z-index: 1; position: relative; }
